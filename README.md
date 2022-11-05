@@ -1,2 +1,2 @@
-# Stac
+# Stack
 
